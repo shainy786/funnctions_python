@@ -1,0 +1,93 @@
+# def shn():
+#     name="shainaz"
+#     place="vizag"
+#     print(name)
+#     print(place)
+# shn()
+
+
+
+
+# name="parvin"
+# place="vzm"
+# def shn():
+#     name="shainaz"
+#     place="vizag"
+#     print(name)
+#     print(place)
+# print(name)
+# shn()
+# print(name)
+# print(place)
+
+
+
+# name="parvin"
+# place="vzm"
+# def shn():
+#     global name,place
+#     name="shainaz"
+#     place="vizag"
+#     print(name)
+#     print(place)
+# print(name)
+# shn()
+# print(name)
+# print(place)
+
+
+
+# def fn(str):
+#     c=0
+#     for i in str:
+#         c+=1
+#     return c
+# # print(fn("shainaz"))
+# input=input("enter name:")
+# print(fn(input))
+
+# def person3():
+#     print(shn"i'm coming")
+# def person2():
+#     print(" mouni:hi shn,sir calling you")
+#     person3()
+# def person1():
+#     print("vahid:call to shn")
+#     person2()
+# person1()
+
+# a=int(input("enter price:"))
+# assert 100<=a,"give me"
+# print("dont want")
+
+# a=[int(x) for x in input().split()]
+# enumerate 
+
+    #  '''sorting numbers'''
+# def num_sort(list):
+#     list.sort()
+#     for i in list:
+#         print(i,end=" ") 
+# s=[int(x) for x in input().split()]
+# num_sort(s)
+
+
+# def s(a):
+#     a.sort()
+#     print(a)
+# a=[int(x) for x in input().split()]
+# s(a)
+
+# a=[98,77, 44 ,88 ,33 ,11 ,33 ]
+# a.sort()
+# print(a)
+
+
+    # '''factorial of numbers'''
+# def factorial(n):
+#     if n==0:
+#         return 1
+#     else:
+#          s=n*factorial(n-1)
+#          return s
+# print(factorial(4))
